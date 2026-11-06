@@ -1,0 +1,25 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+
+# 24Institute public GitHub exclusions
+.env*
+node_modules/
+dist/
+build/
+coverage/
+.vercel/
+*.log
+*.pem
+*.key
+*.p12
+*.pfx
+*.dpapi
+*.zip
+
+docs/
